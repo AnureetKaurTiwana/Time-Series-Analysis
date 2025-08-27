@@ -6,6 +6,7 @@
 3. Exponential Smoothing: Simple Exp Smoothing(SES),Double Exp Smoothing(DES), Tripple Exponential Smoothing(TES)
 4. Converting non stationary TS to Stationary TS
 5. Types of Models: AR(Auto Regression), MA( Moving Average), ARIMA, SARIMA
+   
   [Mobile_Dataset](https://github.com/AnureetKaurTiwana/Time-Series-Analysis/blob/main/mobilesales.xlsx)
 
 
