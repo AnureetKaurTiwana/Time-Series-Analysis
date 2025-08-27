@@ -9,5 +9,9 @@
    
   [Mobile_Dataset](https://github.com/AnureetKaurTiwana/Time-Series-Analysis/blob/main/mobilesales.xlsx)
 
+[Restaurant Visitors Forecasting](https://github.com/AnureetKaurTiwana/Time-Series-Analysis/blob/main/Restaurant%20Visitors%20Forecasting.ipynb)
+
+1. SARIMAX-SARIMA+Exogenous Variable
+
 
 
